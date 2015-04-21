@@ -1,5 +1,5 @@
 # grunt-sprite-glue
-[![Build Status](https://travis-ci.org/frontainer/grunt-sprite-glue.svg?branch=feature%2Fv0.2.0)](https://travis-ci.org/frontainer/grunt-sprite-glue)
+[![Build Status](https://travis-ci.org/frontainer/grunt-sprite-glue.svg)](https://travis-ci.org/frontainer/grunt-sprite-glue)
 [![npm version](https://badge.fury.io/js/grunt-sprite-glue.svg)](http://badge.fury.io/js/grunt-sprite-glue)
 
 Sprite generator with Glue & Grunt.  
